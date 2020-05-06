@@ -1,0 +1,9 @@
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\bin\Debug\p2p.exe.config
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\bin\Debug\p2p.exe
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\bin\Debug\p2p.pdb
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\obj\Debug\p2p.Properties.Resources.resources
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\obj\Debug\p2p.exe
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\obj\Debug\p2p.pdb
+C:\Users\ooo\Documents\myC\NetChatForm\ChatClient\p2p\obj\Debug\ChatClient.Form1.resources

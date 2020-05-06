@@ -1,0 +1,10 @@
+C:\Users\ooo\source\repos\p2p\p2p\bin\Debug\p2p.exe.config
+C:\Users\ooo\source\repos\p2p\p2p\bin\Debug\p2p.exe
+C:\Users\ooo\source\repos\p2p\p2p\bin\Debug\p2p.pdb
+C:\Users\ooo\source\repos\p2p\p2p\obj\Debug\p2p.csprojAssemblyReference.cache
+C:\Users\ooo\source\repos\p2p\p2p\obj\Debug\p2p.Form1.resources
+C:\Users\ooo\source\repos\p2p\p2p\obj\Debug\p2p.Properties.Resources.resources
+C:\Users\ooo\source\repos\p2p\p2p\obj\Debug\p2p.csproj.GenerateResource.cache
+C:\Users\ooo\source\repos\p2p\p2p\obj\Debug\p2p.csproj.CoreCompileInputs.cache
+C:\Users\ooo\source\repos\p2p\p2p\obj\Debug\p2p.exe
+C:\Users\ooo\source\repos\p2p\p2p\obj\Debug\p2p.pdb
