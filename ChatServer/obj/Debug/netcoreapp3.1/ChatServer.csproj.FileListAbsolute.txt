@@ -1,0 +1,13 @@
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.exe
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.deps.json
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.json
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.dev.json
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csprojAssemblyReference.cache
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfoInputs.cache
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfo.cs
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\ooo\Documents\myC\NetChatForm\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.genruntimeconfig.cache

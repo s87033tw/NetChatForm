@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ooo\\Documents\\myC\\p2pServer\\p2pServer.csproj",
-      "projectName": "p2pServer",
-      "projectPath": "C:\\Users\\ooo\\Documents\\myC\\p2pServer\\p2pServer.csproj",
+      "projectUniqueName": "C:\\Users\\ooo\\Documents\\myC\\NetChatForm\\ChatServer\\ChatServer.csproj",
+      "projectName": "ChatServer",
+      "projectPath": "C:\\Users\\ooo\\Documents\\myC\\NetChatForm\\ChatServer\\ChatServer.csproj",
       "packagesPath": "C:\\Users\\ooo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ooo\\Documents\\myC\\p2pServer\\obj\\",
+      "outputPath": "C:\\Users\\ooo\\Documents\\myC\\NetChatForm\\ChatServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

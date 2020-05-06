@@ -4,7 +4,7 @@ using System.Net.Sockets;
 using System.Threading;
 using System.IO;
 
-namespace p2pServer
+namespace ChatServer
 {
     class Program
     {
@@ -91,3 +91,4 @@ namespace p2pServer
         }
     }
 }
+
