@@ -1,0 +1,13 @@
+c:\Users\ooo\Documents\myC\p2pServer\obj\Debug\netcoreapp3.1\p2pServer.csprojAssemblyReference.cache
+c:\Users\ooo\Documents\myC\p2pServer\obj\Debug\netcoreapp3.1\p2pServer.csproj.CoreCompileInputs.cache
+c:\Users\ooo\Documents\myC\p2pServer\obj\Debug\netcoreapp3.1\p2pServer.AssemblyInfoInputs.cache
+c:\Users\ooo\Documents\myC\p2pServer\obj\Debug\netcoreapp3.1\p2pServer.AssemblyInfo.cs
+c:\Users\ooo\Documents\myC\p2pServer\bin\Debug\netcoreapp3.1\p2pServer.exe
+C:\Users\ooo\Documents\myC\p2pServer\bin\Debug\netcoreapp3.1\p2pServer.deps.json
+C:\Users\ooo\Documents\myC\p2pServer\bin\Debug\netcoreapp3.1\p2pServer.runtimeconfig.json
+C:\Users\ooo\Documents\myC\p2pServer\bin\Debug\netcoreapp3.1\p2pServer.runtimeconfig.dev.json
+c:\Users\ooo\Documents\myC\p2pServer\bin\Debug\netcoreapp3.1\p2pServer.dll
+c:\Users\ooo\Documents\myC\p2pServer\bin\Debug\netcoreapp3.1\p2pServer.pdb
+c:\Users\ooo\Documents\myC\p2pServer\obj\Debug\netcoreapp3.1\p2pServer.dll
+c:\Users\ooo\Documents\myC\p2pServer\obj\Debug\netcoreapp3.1\p2pServer.pdb
+C:\Users\ooo\Documents\myC\p2pServer\obj\Debug\netcoreapp3.1\p2pServer.genruntimeconfig.cache
